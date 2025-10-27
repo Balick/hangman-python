@@ -86,6 +86,3 @@ Type "play" to play the game, "results" to show the scoreboard, and "exit" to qu
 You won: 1 times.
 You lost: 0 times.
 ```
-
-## License
-No license specified. Add a LICENSE file if you want to define reuse terms.
