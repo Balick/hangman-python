@@ -1,5 +1,6 @@
 # Hangman — Console Game
-### Level: Medium
+### Jetbrains python project
+https://hyperskill.org/projects/69
 
 A small Python console implementation of the classic Hangman game. The script selects a random word from a built-in list and asks the player to guess it one letter at a time with a limited number of attempts.
 
